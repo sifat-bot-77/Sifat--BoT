@@ -54,17 +54,17 @@
         "autoSwitchOnError": false,
         "_notes": "Two-account mode, used by the 'accountswitch' command. Primary account = appstate.json. For a secondary account, place its cookie/appstate file at account.txt2 in the bot root (no email/password auto-login)."
     },
-    "BOTNAME": "🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰",
-    "Xrahat_Name": "🔰𝗬𝗼𝘂𝗿 𝗡𝗮𝗺𝗲🔰",
+    "BOTNAME": "🔰SIFAR_𝗕𝗼𝘁🔰",
+    "Xrahat_Name": "🔰⏤𝐒𝐢𝐟𝐚𝐭ᥫ᭡𝐁𝐛'𝐳—͞🔰",
     "Xrahat_resend": true,
     "Resend_Group_tid": "𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 𝗧𝗶𝗱 𝗜𝗗",
-    "PREFIX": "/",
+    "PREFIX": ",",
     "ADMINBOT": [
-        "61594627274130",
-        "61591939075803"
+        "61590756236993",
+        "61590756236993"
     ],
     "NDH": [
-        "61594627274130"
+        "61590756236993"
     ],
     "DATABASE": {
         "sqlite": {
